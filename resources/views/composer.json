@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/views",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "İbrahimCan",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+    }
+}
